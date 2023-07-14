@@ -1,0 +1,7 @@
+requests
+tabulate
+re
+datetime
+sys
+random
+cowsay
